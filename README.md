@@ -13,8 +13,8 @@ Me considero una persona pro activa y entusiasta de la tecnologia, es por esto q
 <h2>Tecnologias que manejo:</h2>
 <p>
   <ul>
-    <li>JavaScript</li>
-    <li>React.js</li>
+    
+    <img width="40" height="40"  src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png">
     <li>Node.js</li>
     <li>Express.js</li>
     <li>MySQL</li>
