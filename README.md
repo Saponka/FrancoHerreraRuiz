@@ -23,7 +23,7 @@ Me considero una persona pro activa y entusiasta de la tecnologia, es por esto q
     <li>Mongo Db</li>
     <li>Mongoose</li>
     <li>GIT</li>
-    <li><img src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" >HTML5 </img> </li>
+    <img src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" >HTML5 </img> 
     <li>CSS</li>
     <li>LESS</li>
     <li>SASS</li>
