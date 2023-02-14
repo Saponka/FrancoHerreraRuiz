@@ -1,5 +1,5 @@
 
-### <h1> HOLA, MI NOMBRE ES FRANCO EZEQUIEL HERRERA RUIZ </h1>
+### <h1 align="center"> HOLA, MI NOMBRE ES FRANCO EZEQUIEL HERRERA RUIZ </h1>
 <br/>
 
 
