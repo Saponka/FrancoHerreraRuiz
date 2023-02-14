@@ -14,7 +14,7 @@ Me considero una persona pro activa y entusiasta de la tecnologia, es por esto q
 <p>
   <ul>
     
-    <img width="40" height="40"  src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png">
+    
     <li>Node.js</li>
     <li>Express.js</li>
     <li>MySQL</li>
@@ -28,6 +28,7 @@ Me considero una persona pro activa y entusiasta de la tecnologia, es por esto q
      <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4xo2cq28cbiSLVJW42FZ5sQ5IZ7nOBGb0g&usqp=CAU">
     <li>LESS</li>
     <li>SASS</li>
+    <img width="40" height="40"  src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png">
   </ul>
 </p>
 
