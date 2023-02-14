@@ -3,25 +3,44 @@
 <br/>
 
 
-<h2>¿Quien soy?</h2>
+### Quién soy? 
 <p>Soy Programador Full Stack.
 Me considero una persona pro activa y entusiasta de la tecnologia, es por esto que me gusta dar continuidad a mis aprendizajes. Mantenerme informado y actualizado sobre las diversas tecnologias para mi es primordial, ya que me permiten tener confiaza y seguridad en mi hacer diario. 
 </p>
 <br/>
 
 
-<h2>Tecnologias que manejo:</h2>
+### Qué tecnologías manejo? 
+<p  align="center">
+    
+ <img width="160"  src="https://www.audero.it/blog/wp-content/uploads/2014/09/front-end-stack.png" > 
+ <p/>
+ <p  align="center">
+ <img width="90"  src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"> <img  width="80"  src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"> <img   width="80"  src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo.png">
+  <p/>
+<p align="center">
+ <img  width="85" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png"> <img width="75"  src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png">
+  <p/>
+ <p align="center">
+  <img width="105" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"> <img width="80" src="https://miro.medium.com/max/648/1*iDvsmUwzZQxJSKdL0xzwIA.png"> <img width="65"  src="https://www.clipartmax.com/png/full/307-3077761_other-technologies-postgresql-logo-png.png">   <img margin-left="20" width="75" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png">
+  </p>
+  <p align="center">
+   <img width="80"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1200px-LESS_Logo.svg.png"> <img width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMd7eiGMX9FwRLC0uJTDewSjw_7_WvCF4ABLdwztLrCnPEXrqW0gG-pH8eT-fYPLlghjY&usqp=CAU">
+  </p>
+ 
 
-  
+ 
+ 
+
+
+ 
+ 
+ 
     
     
+
+ 
   
-    <img width="40" height="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" >
-    <img width="30" height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" >
-     <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4xo2cq28cbiSLVJW42FZ5sQ5IZ7nOBGb0g&usqp=CAU">
-    <li>LESS</li>
-    <li>SASS</li>
-    <img width="40" height="40"  src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png">
 
 <h2>Mi información de contacto:</h2>
   <ul>
