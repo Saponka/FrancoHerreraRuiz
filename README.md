@@ -2,7 +2,7 @@
 ### <h1 align="center"> HOLA, MI NOMBRE ES FRANCO EZEQUIEL HERRERA RUIZ </h1>
 <br/>
 
-
+<img src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" >
 <h2>¿Quien soy?</h2>
 <p>Soy Programador Full Stack.
 Me considero una persona pro activa y entusiasta de la tecnologia, es por esto que me gusta dar continuidad a mis aprendizajes. Mantenerme informado y actualizado sobre las diversas tecnologias para mi es primordial, ya que me permiten tener confiaza y seguridad en mi hacer diario. 
