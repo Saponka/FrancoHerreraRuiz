@@ -25,7 +25,7 @@ Me considero una persona pro activa y entusiasta de la tecnologia, es por esto q
     <li>GIT</li>
     <img width="40" height="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" >
     <img width="30" height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" >
-     <img width="45" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4xo2cq28cbiSLVJW42FZ5sQ5IZ7nOBGb0g&usqp=CAU">
+     <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4xo2cq28cbiSLVJW42FZ5sQ5IZ7nOBGb0g&usqp=CAU">
     <li>LESS</li>
     <li>SASS</li>
   </ul>
